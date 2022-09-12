@@ -26,6 +26,12 @@
  The tool was built using Zulu OpenJDK v17, but it should run with any version of JRE 11+.
  
  ## Support 
- The software is provided as-is, use is granted to the end-user according to the license terms. 
+ The software is provided as-is, use is granted to the end-user according to the license terms (LICENSE).
+
  The author can not in any way be held responsible for any possible harm or damage deriving from the use of this product.
+
+ Found a bug? -> Open an issue!
+
+ Want to submit an improvement? -> Clone, patch and fill in a PR!
+ 
  
